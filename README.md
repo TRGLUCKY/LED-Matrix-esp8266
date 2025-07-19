@@ -94,6 +94,3 @@ Button input for mode switching
 📚 License
 This project is open-source and free to modify. Feel lucky and build something awesome! 🍀
 
-If you'd like me to help make a readme badge, logo, or host visuals, I’d be happy to jump in. Just say the word.
-
-
