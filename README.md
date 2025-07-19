@@ -96,4 +96,4 @@ This project is open-source and free to modify. Feel lucky and build something a
 
 If you'd like me to help make a readme badge, logo, or host visuals, I’d be happy to jump in. Just say the word.
 
-Quiz my understanding of this ESP8266 LED display projectWhat are alternatives to ESP8266 for Wi-Fi LED displays?Explain how the web UI interacts with the LED display hardware
+
