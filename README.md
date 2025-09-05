@@ -1,3 +1,4 @@
+<img width="3000" height="1659" alt="circuit_image" src="https://github.com/user-attachments/assets/7fd83a6f-d483-48e8-8267-cba38f633130" />
 # LED-Matrix-esp8266                        
 Wi-Fi Controlled LED Matrix with Real-Time Clock & Web Interface
 
