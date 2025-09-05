@@ -27,15 +27,25 @@ Breadboard	Optional, for prototyping
 Wire connections:
 
 LED Matrix to ESP8266:
-VCC -> 5V
-GND -> GND
+
+VCC -> 5V 
+
+GND -> GND 
+
 D8 (CS_PIN) -> D8 (GPIO15)
+
 D7 (MOSI) -> D7 (GPIO13)
+
 D5 (CLK) -> D5 (GPIO14)
+
 DS3231 RTC Module to ESP8266:
+
 VCC -> 3.3V or 5V
+
 GND -> GND
+
 SDA -> D2 (GPIO4)
+
 SCL -> D1 (GPIO5)
 
 
